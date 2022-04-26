@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\hp\source\repos\OOP 3.3D\OOP 3.3D\TrianglePrivate.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3D\OOP 3.3D\Source.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Triad.cpp
+C:\Users\hp\source\repos\OOP 3.3D\OOP 3.3D\Triad.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  TrianglePrivate.cpp
+C:\Users\hp\source\repos\OOP 3.3D\OOP 3.3D\TrianglePrivate.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3D\OOP 3.3D\TrianglePrivate.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  TrianglePublic.cpp
+C:\Users\hp\source\repos\OOP 3.3D\OOP 3.3D\TrianglePublic.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3D\OOP 3.3D\TrianglePublic.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Создание кода...
+  OOP 3.3D.vcxproj -> C:\Users\hp\source\repos\OOP 3.3D\x64\Debug\OOP 3.3D.exe
